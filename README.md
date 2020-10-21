@@ -1,4 +1,4 @@
-# seo-back-end
+# seo-analyzer
 
 To start te project run:  
 `docker-compose build` 
